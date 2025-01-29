@@ -1,0 +1,32 @@
+Example 1:
+
+[INFO]: Welcome to the Custom Google Scraper!
+Enter your search query: best restaurants near me
+How many scrolls do you want to perform? (Recommended: 3): 1
+
+[INFO]: Starting the scraper. Please ensure responsible usage of this tool.
+
+[INFO]: Google search page loaded.
+[INFO]: Completed scroll 1/1.
+[INFO]: Found 10 results to scrape.
+[INFO]: Results successfully saved to google_results.csv.
+
+[INFO]: Task completed. Results saved successfully.
+
+Example 2:
+
+[INFO]: Welcome to the Custom Google Scraper!
+Enter your search query: how to learn python
+How many scrolls do you want to perform? (Recommended: 3): 3
+
+[INFO]: Starting the scraper. Please ensure responsible usage of this tool.
+
+[INFO]: Google search page loaded.
+[INFO]: Completed scroll 1/3.
+[INFO]: Completed scroll 2/3.
+[INFO]: Completed scroll 3/3.
+[INFO]: Found 30 results to scrape.
+[WARNING]: Skipping an element due to error: Could not find the description element
+[INFO]: Results successfully saved to google_results.csv.
+
+[INFO]: Task completed. Results saved successfully.
